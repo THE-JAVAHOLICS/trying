@@ -1,4 +1,4 @@
-not apple
+apple
 oranage
 kiwi
 and not banana
