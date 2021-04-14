@@ -1,4 +1,7 @@
 Hello it's Omar
 
+<<<<<<< HEAD
 hi there
 
+=======
+>>>>>>> d035f692b93f5551ca74532b5c94c312e68238d8
